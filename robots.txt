@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-d8txoi.bankofq.com/sitemap.xml
